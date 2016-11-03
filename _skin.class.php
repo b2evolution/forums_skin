@@ -17,6 +17,13 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
  */
 class forums_Skin extends Skin
 {
+	/**
+	 * Skin version
+	 * @var string
+	 */
+	var $version = '6.7.8';
+	
+	
   /**
 	 * Get default name for the skin.
 	 * Note: the admin can customize it.

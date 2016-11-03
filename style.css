@@ -831,6 +831,23 @@ div.message_toolbars div.edit_toolbar {
 	top: 3px;
 	right: 3px;
 }
+.ficon.width_decrease {
+    background-position: -32px -75px;
+    width: 32px;
+    height: 32px;
+}
+.roundbutton span, .roundbutton_text span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+.ficon {
+    background: url(img/icons.gif) no-repeat;
+    display: inline-block;
+}
 /* Devices with max width <= 1024px (iPhone,iPad):
    Don't fix a width switcher */
 @media only screen and (max-device-width: 1024px) {

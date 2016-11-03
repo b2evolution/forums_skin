@@ -8,3 +8,9 @@ Link to skin: http://skins.b2evolution.net/forums-skin
 <img src="forums-entire_page-main.png"/><br/>
 ### Single page
 <img src="forums-entire_page-topic_view.png"/><br/>
+
+### Update Log
+
+#### v6.7.8
+- Width switcher fix
+- Skin version fix
